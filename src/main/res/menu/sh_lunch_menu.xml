@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/lunch1"
+        android:title="Grilled Cheese Sandwich"/>
+    <item
+        android:id="@+id/lunch2"
+        android:title="Caesar Salad"/>
+    <item
+        android:id="@+id/lunch3"
+        android:title="Spaghetti Bolognese"/>
+    <item
+        android:id="@+id/lunch4"
+        android:title="Chicken Wrap"/>
+
+</menu>
+
+

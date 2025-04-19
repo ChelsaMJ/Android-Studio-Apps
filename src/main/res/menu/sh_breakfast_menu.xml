@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bf1"
+        android:title="Pancakes"/>
+    <item
+        android:id="@+id/bf2"
+        android:title="Omelette"/>
+    <item
+        android:id="@+id/bf3"
+        android:title="French Toast"/>
+    <item
+        android:id="@+id/bf4"
+        android:title="Waffles"/>
+</menu>
+
+
+

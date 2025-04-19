@@ -1,0 +1,24 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:layout_gravity="center">
+
+    <ImageView
+        android:id="@+id/item_image"
+        android:layout_width="264dp"
+        android:layout_height="226dp"
+        android:contentDescription="Recipe Image"
+        android:src="@drawable/img" />
+
+    <TextView
+        android:id="@+id/item_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Recipe Name"
+        android:textColor="@android:color/black"
+        android:paddingStart="8dp"
+        android:layout_gravity="center"/>
+</LinearLayout>

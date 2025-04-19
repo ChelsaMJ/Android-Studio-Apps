@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/snack1"
+        android:title="Nachos" />
+    <item
+        android:id="@+id/snack2"
+        android:title="Spring Rolls" />
+    <item
+        android:id="@+id/snack3"
+        android:title="Granola Bar" />
+    <item
+        android:id="@+id/snack4"
+        android:title="Fruit Salad" />
+
+</menu>
+
+
+
